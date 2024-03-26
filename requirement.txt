@@ -5,3 +5,4 @@ fastapi
 ipykernel
 langchain
 python-box
+streamlit
